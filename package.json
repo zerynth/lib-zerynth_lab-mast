@@ -1,0 +1,9 @@
+{
+        "author": "dev@zerynth.com",
+        "description": "MAST Workshop",
+        "name": "MAST Workshop",
+        "fullname":"lib.zerynth_lab.mast",
+        "dependencies": {
+        }
+}
+
